@@ -14,4 +14,3 @@ Notes:
 """
 def multiply_nums(nums):
     # Your code here
-
